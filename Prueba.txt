@@ -1,5 +1,9 @@
-Hola que tal 
-desde el escritorio 
+//Hola que tal 
+//desde el escritorio 
+
+int suma (int i , int j){
+	return i+j;
+}
 
 
 int resta (int i , int j){
